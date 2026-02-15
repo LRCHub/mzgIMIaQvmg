@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "EMA - 反逆者の僕ら",
+  "base_artist": "EMA",
+  "createdAt": "2026-02-15T13:36:23.422980Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "EMA",
+      "artist": "go!go!vanillas",
+      "has_synced": true,
+      "path": "select/01_EMA_go!go!vanillas.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ema",
+      "artist": "Kustian",
+      "has_synced": true,
+      "path": "select/02_Ema_Kustian.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "O Canto da Ema",
+      "artist": "Gilberto Gil",
+      "has_synced": false,
+      "path": "select/03_O_Canto_da_Ema_Gilberto_Gil.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "DJ Ema Remix Ziba",
+      "artist": "Majid Razavi",
+      "has_synced": true,
+      "path": "select/04_DJ_Ema_Remix_Ziba_Majid_Razavi.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Proiectul Balkanic-Ema",
+      "artist": "Raluka",
+      "has_synced": false,
+      "path": "select/05_Proiectul_Balkanic-Ema_Raluka.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "O Canto da Ema",
+      "artist": "Gil, Gilberto",
+      "has_synced": false,
+      "path": "select/06_O_Canto_da_Ema_Gil,_Gilberto.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Baião / Vem Morena / O Canto da Ema",
+      "artist": "Alceu Valença",
+      "has_synced": true,
+      "path": "select/07_Baião___Vem_Morena___O_Canto_da_Ema_Alceu_Valença.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Carcará / Pisa na Fulô / O Canto da Ema (Album Version)",
+      "artist": "Zé Ramalho",
+      "has_synced": true,
+      "path": "select/08_Carcará___Pisa_na_Fulô___O_Canto_da_Ema_(Album_Version)_Zé_Ramalho.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Eu vou pra Lua / O Canto da Ema",
+      "artist": "Elba Ramalho",
+      "has_synced": true,
+      "path": "select/09_Eu_vou_pra_Lua___O_Canto_da_Ema_Elba_Ramalho.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "O canto de Ema",
+      "artist": "Gilberto Gil",
+      "has_synced": true,
+      "path": "select/10_O_canto_de_Ema_Gilberto_Gil.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Ema haual",
+      "artist": "Duo Ruut",
+      "has_synced": true,
+      "path": "select/11_Ema_haual_Duo_Ruut.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Gogó da Ema",
+      "artist": "Barbatuques",
+      "has_synced": true,
+      "path": "select/12_Gogó_da_Ema_Barbatuques.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "O Canto da Ema/Pra Onde Vai Valente",
+      "artist": "Barbatuques",
+      "has_synced": false,
+      "path": "select/13_O_Canto_da_Ema_Pra_Onde_Vai_Valente_Barbatuques.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "o canto de ema",
+      "artist": "gilberto gil",
+      "has_synced": false,
+      "path": "select/14_o_canto_de_ema_gilberto_gil.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Já Que o Som Não Acabou / O Canto da Ema (Ao Vivo)",
+      "artist": "Geraldo Azevedo",
+      "has_synced": true,
+      "path": "select/15_Já_Que_o_Som_Não_Acabou___O_Canto_da_Ema_(Ao_Vivo)_Geraldo_Azevedo.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Ema Seun Mi",
+      "artist": "Femi Okunuga",
+      "has_synced": false,
+      "path": "select/16_Ema_Seun_Mi_Femi_Okunuga.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "反逆者の僕ら",
+      "artist": "EMA",
+      "has_synced": false,
+      "path": "select/pl_01_反逆者の僕ら_EMA.txt"
+    }
+  ]
+}
